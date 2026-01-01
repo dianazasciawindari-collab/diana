@@ -388,7 +388,7 @@ nav a:hover:after {
     border-radius: 20px;
 }
 
-.simple-footer {
+.footer {
     background: #061E29;
     color: #EAE0CF;
     text-align: center;
@@ -397,9 +397,10 @@ nav a:hover:after {
     margin-top: 60px;
 }
 
-.simple-footer p {
+.footer p {
     margin: 5px 0;
 }
+
 
 
 
