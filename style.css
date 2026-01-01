@@ -12,7 +12,6 @@ body {
     overflow-x: hidden; 
 }
 
-/* navbar */
 .container{
     width: 90%;
     max-width: 1200%;
@@ -95,7 +94,6 @@ nav a:hover:after {
     gap: 15px;
 }
 
-/* banner */
 .banner {
   height: 400px;
   background-image: url("gambar/Animal3.jpeg");
@@ -134,7 +132,7 @@ nav a:hover:after {
   font-size: 18px;
   margin-top: 10px;
 }
- /* content home */
+ 
 .hero {
     height: 50vh;
     display: flex;
@@ -177,7 +175,6 @@ nav a:hover:after {
     border-radius: 20px;
 }
 
-
 .btn-detail {
     display: inline-block;
     padding: 8px 18px;
@@ -192,7 +189,6 @@ nav a:hover:after {
     background: #B87C4C;
 }
 
-/* ===== TENTANG ===== */
 .about {
     padding: 80px 0;
     background-color: #FFEAD3;
@@ -262,7 +258,6 @@ nav a:hover:after {
     margin-right: 10px;
 }
 
-/* ===== GALLERY CARD ===== */
 .product-gallery {
     padding: 80px 0;
     background-color: #FFEAD3;
@@ -317,7 +312,6 @@ nav a:hover:after {
     color: #444;
 }
 
-/* ===== CONTACT ===== */
 .contact {
     padding: 80px 0;
     background-color: #FFEAD3;
@@ -394,7 +388,6 @@ nav a:hover:after {
     border-radius: 20px;
 }
 
- /* footer */
 .simple-footer {
     background: #061E29;
     color: #EAE0CF;
@@ -407,5 +400,6 @@ nav a:hover:after {
 .simple-footer p {
     margin: 5px 0;
 }
+
 
 
